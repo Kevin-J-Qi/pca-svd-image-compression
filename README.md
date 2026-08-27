@@ -88,7 +88,7 @@ These results demonstrate the trade-off between dimensionality reduction, recons
 * Image denoising
 * Frobenius norm
 
-## Arthor
+## Author
 
 Jiaen Qi
 
